@@ -1,5 +1,5 @@
 # ExpenseTracker
-You can find the working demo here: https://expensetrackappli.netlify.app/
+You can find the working demo here: https://arnavgholap.github.io/ExpenseTracker/
 
 This Expense Tracker application was built out of a personal need to manage finances more effectively. I struggled with keeping track of daily expenditures and realized that many others face similar challenges. This application aims to simplify expense tracking, helping millions like me to categorize, analyze, and manage their spending effortlessly.
 
