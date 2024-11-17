@@ -1,0 +1,143 @@
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eaf4f9;  /* Light blue background */
+    color: #333;
+}
+
+header {
+    background-color: #2e8b57;  /* Sea green */
+    color: #fff;
+    padding: 20px 0;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0;
+    color: #2e8b57;  /* Sea green */
+}
+
+.input-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.input-section label {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #555;
+}
+
+.input-section select, .input-section input[type="number"], .input-section input[type="date"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 200px;
+    background-color: #f9f9f9;
+    font-size: 1em;
+}
+
+.input-section button {
+    padding: 10px 20px;
+    background-color: #2e8b57;  /* Sea green */
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1em;
+}
+
+.input-section button:hover {
+    background-color: #1f6b42;  /* Darker green */
+}
+
+.expenses-list {
+    margin: 20px 0;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #1e90ff;  /* Dodger blue */
+    color: #fff;
+}
+#charts {
+    margin: 20px 0;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+#categoryChart, #monthlyComparisonChart {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+tfoot td {
+    font-weight[_{{{CITATION{{{_1{](https://github.com/EleanorEllingson/web-dev/tree/b2f2a382e77a20fd6895677c8b8f402ac4bae352/7-bank-project%2F1-template-route%2Ftranslations%2FREADME.ko.md)[_{{{CITATION{{{_2{](https://github.com/AnnieGlade4327/Team-Profile-Generator/tree/de9031cbd2c32f9d6f610c40af1bb0d04b57510d/src%2Ftemplate.js)[_{{{CITATION{{{_3{](https://github.com/kiarash7/kiarash_php_calculator/tree/823f748bf6d6a8b41033b1f0e46a61e41db3b65b/index.php)[_{{{CITATION{{{_4{](https://github.com/Nabile01/First-project/tree/800c13e90b105f2a77022da5bedc9bbdfe326f60/P.%20GITES%2Flogin.php)
