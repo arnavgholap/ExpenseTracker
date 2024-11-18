@@ -25,4 +25,4 @@ HTML5 for structuring the content
 CSS3 for styling and layout
 JavaScript for interactivity and functionality
 
-Made with love by Arnav Gholap
+Made with ❤ by Arnav Gholap
